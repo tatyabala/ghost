@@ -2,6 +2,7 @@ themes=(
 	casper
 	lyra
  	Digest
+   	Alto
 )
 
 mkdir -p content/themes/
