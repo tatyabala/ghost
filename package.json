@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "casper": "github:TryGhost/Casper#main",
-    "ghost": "4.47.4",
+    "ghost": "5.71.2",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
-    "leadspatch":"github:tatyabala/leads",
+    "leadspatch": "github:tatyabala/leads#main",
     "mysql2": "2.3.3"
   },
   "scripts": {
