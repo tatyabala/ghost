@@ -1,6 +1,7 @@
 themes=(
 	casper
 	lyra
+ 	leadspatch
 )
 
 mkdir -p content/themes/
