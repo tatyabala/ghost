@@ -13,7 +13,6 @@
     "ghost": "4.47.2",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
-    "leadspatch": "github:tatyabala/leads#main",
     "mysql2": "2.3.3"
   },
   "scripts": {
